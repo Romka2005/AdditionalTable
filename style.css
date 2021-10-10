@@ -1,0 +1,17 @@
+.degree{
+    text-align: center;
+    font-size: 70px;
+}
+thead{
+    font-size: 30px;
+    background: chartreuse;
+}   
+thead th:hover{
+    border: 3px solid blue;
+}
+tbody td:hover{
+    border: 3px solid blue;
+}
+tfoot td:hover{
+    border: 3px solid blue;
+}
